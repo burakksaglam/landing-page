@@ -70,8 +70,12 @@ a {
 }
 
 .web-button {
+    border-radius: 5px;
+    border: 2px solid #3882f6;
     background-color: #3882f6;
     color: white;
+    height: 30px;
+    width: 100px;
 }
 
 .part-2 {
@@ -126,6 +130,7 @@ a {
 .image-text-couple img {
     width: 150px;
     height: 150px;
+    border-radius: 10px;
 }
 
 .image-text-couple {
@@ -163,12 +168,16 @@ a {
 }
 
 .part-4-container-button {
+    border-radius: 5px;
     background-color: #3882f6;
     border: 2px solid white;
     color: white;
+    height: 30px;
+    width: 100px;
 }
 
 .part-4-container {
+    border-radius: 10px;
     background-color: #3882f6;
     display: flex;
     flex-direction: row;
